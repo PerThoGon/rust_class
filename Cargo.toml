@@ -1,5 +1,11 @@
 [workspace]
 
 members = [ 
+	"elevator_event",
+	"expression_evaluation",
 	"fibonnaci",
+	"geometry",
+	"gui_lib",
+	"nested_arrays",
+	"collatz",
 ]
