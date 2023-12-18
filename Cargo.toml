@@ -5,6 +5,7 @@ members = [
 	"expression_evaluation",
 	"fibonnaci",
 	"geometry",
+	"generic_min",
 	"gui_lib",
 	"nested_arrays",
 	"collatz",
