@@ -1,6 +1,8 @@
 [workspace]
 
-members = [ 
+members = [
+	"binary_tree",
+	"builder_type", 
 	"collatz",
 	"counter",
 	"elevator_event",
