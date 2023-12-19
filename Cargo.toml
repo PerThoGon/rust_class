@@ -1,6 +1,8 @@
 [workspace]
 
 members = [ 
+	"collatz",
+	"counter",
 	"elevator_event",
 	"expression_evaluation",
 	"fibonnaci",
@@ -8,5 +10,4 @@ members = [
 	"generic_min",
 	"gui_lib",
 	"nested_arrays",
-	"collatz",
 ]
