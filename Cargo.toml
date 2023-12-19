@@ -11,5 +11,7 @@ members = [
 	"geometry",
 	"generic_min",
 	"gui_lib",
+	"health_stats",
 	"nested_arrays",
+	"protobuf_parsing",
 ]
