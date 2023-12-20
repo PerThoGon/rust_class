@@ -17,4 +17,5 @@ members = [
 	"nested_arrays",
 	"protobuf_parsing",
 	"rewrite_with_result",
+	"safe_ffi_wrapper",
 ]
