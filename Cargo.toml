@@ -13,6 +13,8 @@ members = [
 	"gui_lib",
 	"health_stats",
 	"iterator_chain",
+	"luhn",
 	"nested_arrays",
 	"protobuf_parsing",
+	"rewrite_with_result",
 ]
