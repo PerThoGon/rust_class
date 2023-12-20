@@ -12,6 +12,7 @@ members = [
 	"generic_min",
 	"gui_lib",
 	"health_stats",
+	"iterator_chain",
 	"nested_arrays",
 	"protobuf_parsing",
 ]
