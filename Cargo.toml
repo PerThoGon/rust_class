@@ -15,8 +15,7 @@ members = [
 	"iterator_chain",
 	"luhn",
 	"nested_arrays",
-	"projectY",
 	"protobuf_parsing",
 	"rewrite_with_result",
-	"safe_ffi_wrapper", "projectY",
+	"safe_ffi_wrapper",
 ]
