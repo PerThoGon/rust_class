@@ -22,6 +22,14 @@ impl LessThan for Citation {
 }
 
 // TODO: implement the `min` function used in `main`.
+fn min<T : LessThan> (left: T, right: T) -> T {
+    if left.less_than(&right) {
+        left
+    } else {
+        right
+    }
+}
+
 
 fn main() {
     let cit1 = Citation {
